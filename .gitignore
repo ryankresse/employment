@@ -1,3 +1,6 @@
-
+*.xls
+*.csv
+*.txt
+*.swp
 *.xlsx
 .ipynb_checkpoints/
